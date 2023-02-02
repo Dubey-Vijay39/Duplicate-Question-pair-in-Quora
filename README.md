@@ -1,6 +1,8 @@
 # Duplicate-Question-pair-in-Quora
 This project was done as an capstone project for our ML subject
+
 QuoraDuuplicateQuestionPair
+
 Over 100 million people visit Quora every month, so it's no surprise that many people ask similarly worded questions. 
 Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, 
 and make writers feel they need to answer multiple versions of the same question. 
